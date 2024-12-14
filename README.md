@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋 I'm Nidia Gomez</h1>
 
 # 💫 About Me:
-I am a Computer Science student at the University of Texas at San Antonio, with an interest in Data Science and Web Dev
+I am a Computer Science student at the University of Texas at San Antonio, with an interest in Data Science and Web Dev.
+
+Currently creating a passion project that empowers fashion enthusiasts by bringing transparency, fairness, and knowlege to the fashion market. I'm combining my love for fashion and computer science to address challenges in this space.
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidia-gomez/)
