@@ -1,19 +1,42 @@
-<h1 align="center">Hi. I'm Nidia Gomez</h1>
+# Hi. I'm Nidia Gomez 👋
 
-# About Me:
-I am a Computer Science student at the University of Texas at San Antonio, with an interest in Data Science and Web Dev.
+### 👩‍💻 About Me:
+I’m a Computer Science student at the University of Texas at San Antonio with a strong interest in **Data Analytics**, **Product Insights**, and **Fashion Technology**.
 
-Currently creating a passion project that empowers fashion enthusiasts by bringing transparency, fairness, and knowlege to the fashion market. I'm combining my love for fashion and computer science to address challenges in this space.
+I'm currently building data-driven projects that explore how consumer behavior, fashion trends, and transparency intersect. My passion project focuses on empowering fashion enthusiasts by using data to bring **fairness**, **clarity**, and **accessibility** to the fashion resale market.
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nidia-gomez/)
+💡 I’m especially interested in product analytics, A/B testing, trend forecasting, and building tools that turn raw data into real-world insights.
 
-# 💻 Tech Stack:
-Languages: 
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+---
+
+### 🌐 Connect with Me:
+[LinkedIn](https://www.linkedin.com/in/nidia-gomez)  
+
+---
+
+### 💻 Tech Stack:
+**Languages & Tools:**  
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)  
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
+
+---
+
+### 🔭 Current Projects:
+- 📊 **"What’s Trending in Vintage Fashion (May 2025)"**  
+Using Google Trends to analyze rising search interest in archival designer pieces and summer styles.
+
+- 🧪 **A/B Test Simulation**  
+Modeling experiments for fashion app features — like product tags, sort filters, and new-in banners.
+
+- 📈 **Summer Color Tracker**  
+Using search data to track which colors are rising in outfit interest (e.g. “butter yellow dress” vs. “pink maxi skirt”).
+
+---
+
+### ✨ Fun Fact:
+I believe the future of fashion is powered by **insightful, ethical tech** — and I want to help build it.
