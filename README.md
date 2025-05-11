@@ -1,6 +1,6 @@
-# Hi. I'm Nidia Gomez 👋
+# Hi. I'm Nidia Gomez 
 
-### 👩‍💻 About Me:
+###  About Me:
 I’m a Computer Science student at the University of Texas at San Antonio with a strong interest in **Data Analytics**, **Product Insights**, and **Fashion Technology**.
 
 I'm currently building data-driven projects that explore how consumer behavior, fashion trends, and transparency intersect. My passion project focuses on empowering fashion enthusiasts by using data to bring **fairness**, **clarity**, and **accessibility** to the fashion resale market.
@@ -36,7 +36,3 @@ Modeling experiments for fashion app features — like product tags, sort filter
 - 📈 **Summer Color Tracker**  
 Using search data to track which colors are rising in outfit interest (e.g. “butter yellow dress” vs. “pink maxi skirt”).
 
----
-
-### ✨ Fun Fact:
-I believe the future of fashion is powered by **insightful, ethical tech** — and I want to help build it.
