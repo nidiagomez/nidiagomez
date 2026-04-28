@@ -4,7 +4,7 @@
 https://readymag.website/5523399
 
 ###  About Me:
-I’m a Computer Science student at the University of Texas at San Antonio with a strong interest in **Data Analytics**, **Product Insights**, and **Fashion Technology**.
+I’m a recent graduate from  the University of Texas at San Antonio with a strong interest in **Data Analytics**, **Product Insights**, and **Fashion Technology**.
 
 I'm currently building data-driven projects that explore how consumer behavior, fashion trends, and transparency intersect. My passion project focuses on empowering fashion enthusiasts by using data to bring **fairness**, **clarity**, and **accessibility** to the fashion resale market.
 
