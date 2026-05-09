@@ -1,8 +1,5 @@
 # Hi. I'm Nidia Gomez 
 
-###  Check out my website:
-nidiagomez.github.io
-
 ###  About Me:
 I’m a recent graduate from  the University of Texas at San Antonio with a strong interest in **Data Analytics**, **Product Insights**, and **Fashion Technology**.
 
