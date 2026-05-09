@@ -8,7 +8,7 @@
 
 ## About
 
-I sit at the intersection of **data and culture**. My work focuses on trend forecasting, consumer insights, and brand intelligence for the beauty and luxury space — the kind of work that helps brands like L'Oréal and LVMH understand where culture is going before it gets there.
+I sit at the intersection of **data and culture**. My work focuses on trend forecasting, consumer insights, and brand intelligence for the beauty and luxury space.
 
 - 📍 New York City
 - 🎓 B.S. Computer Science — University of Texas at San Antonio, 2025
