@@ -11,6 +11,6 @@ I’m especially interested in product analytics, A/B testing, trend forecasting
 
 ### Connect with Me:
 [LinkedIn](https://www.linkedin.com/in/nidia-gomez)  
-HTML5-E34F26?style=flat-square&logo=html5)  
+
 
 ---
